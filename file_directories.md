@@ -35,3 +35,19 @@ Step 2: Run cmd then navigate to folder above project root folder.
                                    [cd codeigniter4]
                                    
 Step 3: Type in [composer create-project codeigniter4/appstarter nameOfProject]   -- with nameOfProject intended for project folder name like mine "it374semi"
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------#
+Running Program
+
+Step 1: Execute Apache through XAMPP
+Step 2: Open cmd 
+Step 3: Navigate to created project root directory, in my case "it374semi"
+        
+        For example, commands are: [cd\]
+                                   [cd xampp]
+                                   [cd htdocs]
+                                   [cd codeigniter4]
+                                   [cd it374semi]
+                                   [php spark serve]
+                                   
+Step 4: Open on browser address (localhost:8080/main)
