@@ -3,7 +3,10 @@ This repository is created in compliance with the BSIT - IT374 Semifinals requir
 
 ## Required Composer
 ## Required Codeigniter 4 MVC Framework
-## Source Code editor for scripting
+## Preferred Source Code editor for scripting (Sublime, VS Code, Notepad++ etc)
+## PHP Version 7.0 , preferrably latest
+## XAMPP v3.2.4 or much recent version, Apache
+## Basic knowledge in PHP
 
 
 The directory for individual files uploaded are as follows:
